@@ -1,5 +1,5 @@
 {
-  version: "0.2.0",
-  url: "https://github.com/ACG-daily/telegrapher_cli/releases/download/0.2.0/tc.exe",
+  version: "0.3.0",
+  url: "https://github.com/ACG-daily/telegrapher_cli/releases/download/0.3.0/tc.exe",
   bin: "tc.exe"
 }
